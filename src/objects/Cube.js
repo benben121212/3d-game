@@ -12,3 +12,6 @@ cube.position.set(0, 0, 0);
 scene.add(cube);
 
 export default cube;
+
+
+
